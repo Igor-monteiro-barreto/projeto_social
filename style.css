@@ -39,6 +39,7 @@ iframe#tela{
     height: 470px;
 }
 section#icones{
+    position: relative;
     text-align: right;
 }
 section#icones > a > img{
